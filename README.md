@@ -24,15 +24,15 @@
 
 ### [**Código 1** Noções básicas do R](https://github.com/apolinario-souza/algoritmos_metodos_quantitativos/blob/main/aula1.R)
 
-### [**Código 2** Análise descritiva](https://github.com/apolinario-souza/Curso_MNE/blob/main/1.ipynb)
+### [**Código 2** Análise descritiva](https://github.com/apolinario-souza/algoritmos_metodos_quantitativos/blob/main/aula2.R)
 
-### [**Código 3** Comparações por pares](https://github.com/apolinario-souza/Curso_MNE/blob/main/1.ipynb)
+### [**Código 3** Comparações por pares](https://github.com/apolinario-souza/algoritmos_metodos_quantitativos/blob/main/aula3.R)
 
-### [**Código 4** ANOVAS](https://github.com/apolinario-souza/Curso_MNE/blob/main/1.ipynb)
+### [**Código 4** ANOVAS](https://github.com/apolinario-souza/algoritmos_metodos_quantitativos/blob/main/aula4.R)
 
-### [**Código 5** Correlações](https://github.com/apolinario-souza/Curso_MNE/blob/main/1.ipynb)
+### [**Código 5** Correlações](https://github.com/apolinario-souza/algoritmos_metodos_quantitativos/blob/main/aula5.R)
 
-### [**Código 6** Regressão](https://github.com/apolinario-souza/Curso_MNE/blob/main/1.ipynb)
+### [**Código 6** Regressão](https://github.com/apolinario-souza/algoritmos_metodos_quantitativos/blob/main/aula6.R)
 
 
 
