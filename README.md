@@ -5,7 +5,7 @@
 
 # “Como fazer”: passo a passo das principais análises utilizando o R
 
-## Vídeos com o conteúdo
+## Vídeos com os conteúdos
 
 [Noções básicas do R](https://youtu.be/qjK5HsBs5uY).
 
@@ -22,7 +22,21 @@
 
 
 
-# [**Código 1** Noções básicas do R ](https://github.com/apolinario-souza/Curso_MNE/blob/main/1.ipynb)
+## Códigos
+
+### [**Código 1** Noções básicas do R](https://github.com/apolinario-souza/Curso_MNE/blob/main/1.ipynb)
+
+### [**Código 2** Análise descritiva](https://github.com/apolinario-souza/Curso_MNE/blob/main/1.ipynb)
+
+### [**Código 3** Comparações por pares](https://github.com/apolinario-souza/Curso_MNE/blob/main/1.ipynb)
+
+### [**Código 4** ANOVAS](https://github.com/apolinario-souza/Curso_MNE/blob/main/1.ipynb)
+
+### [**Código 5** Correlações](https://github.com/apolinario-souza/Curso_MNE/blob/main/1.ipynb)
+
+### [**Código 6** Regressão](https://github.com/apolinario-souza/Curso_MNE/blob/main/1.ipynb)
+
+
 
 
 
