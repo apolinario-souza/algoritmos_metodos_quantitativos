@@ -1,5 +1,5 @@
 <p align="center">
- <img src=https://mne.tools/stable/_images/mne_logo.svg>
+ <img src=[https://mne.tools/stable/_images/mne_logo.svg](https://www.r-project.org/Rlogo.png)>
  
 </p>
 
