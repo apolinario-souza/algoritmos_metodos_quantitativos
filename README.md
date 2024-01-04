@@ -20,11 +20,9 @@
 [Regressão](https://www.youtube.com/watch?v=WelUVRMNM-0).
 
 
-
-
 ## Códigos
 
-### [**Código 1** Noções básicas do R](https://github.com/apolinario-souza/Curso_MNE/blob/main/1.ipynb)
+### [**Código 1** Noções básicas do R](https://github.com/apolinario-souza/algoritmos_metodos_quantitativos/blob/main/aula1.R)
 
 ### [**Código 2** Análise descritiva](https://github.com/apolinario-souza/Curso_MNE/blob/main/1.ipynb)
 
