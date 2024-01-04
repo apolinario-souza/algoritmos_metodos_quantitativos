@@ -26,7 +26,7 @@
 
 ### [**Código 2** Análise descritiva](https://github.com/apolinario-souza/algoritmos_metodos_quantitativos/blob/main/aula2.R)
 
-### [**Código 3** Comparações por pares](https://github.com/apolinario-souza/algoritmos_metodos_quantitativos/blob/main/aula3.R)
+### [**Código 3** Comparações por pares](https://github.com/apolinario-souza/algoritmos_metodos_quantitativos/blob/main/Aula3.R)
 
 ### [**Código 4** ANOVAS](https://github.com/apolinario-souza/algoritmos_metodos_quantitativos/blob/main/aula4.R)
 
